@@ -1,0 +1,25 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello World"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolentinoel/npm-lab.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "tolentinoel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolentinoel/npm-lab/issues"
+  },
+  "homepage": "https://github.com/tolentinoel/npm-lab#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
